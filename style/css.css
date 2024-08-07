@@ -62,13 +62,13 @@ body,html{
     text-decoration: underline;
 }
 .top_text .knopka{
-    width: 130px;
+    width: 170px;
     height: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
     color: #3DD963;
-    font-size: 19px;
+    font-size: 16px;
     font-weight: 600;
     background: #ffff;
     border-radius: 10px;
@@ -144,7 +144,7 @@ body,html{
     width: 290px;
     height: 75px;
     color: #ffff;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 400;
     background: linear-gradient(87.57deg, #00D328 -102.52%, #008B27 194.17%);
     margin-left: 15px;
